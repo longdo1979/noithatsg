@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'noithatsg' );
 
 /** Database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Longdo123@!' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
